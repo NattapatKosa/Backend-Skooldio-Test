@@ -38,7 +38,6 @@ const deck = {
     for (let i = 0 ; i < num; i++ ) {
         onHand.push(array.pop());
     }
-    console.log(onHand);
     return onHand;
   },
 

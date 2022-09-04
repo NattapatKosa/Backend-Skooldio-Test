@@ -1,5 +1,5 @@
 const prompt = require("prompt-sync")();
-const { deck } = require("./service");
+const { deck } = require("./deckAndScore");
 
 let totalBet = 0;
 let gameStart = true;
